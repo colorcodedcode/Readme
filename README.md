@@ -8,7 +8,7 @@ Though it's a bit bleek right now, I plan to use this page to store my portfolio
 
 If you're looking for more info, please come look me up at:  
 [ColorCodedCode.com](http://www.colorcodedcode.com)  
-[Twitter/ColorCodedCode](https://www.twitter.com/colorcodedcode)  
+[Twitter](https://www.twitter.com/colorcodedcode)  
 [LinkedIn](https://www.linkedin.com/in/robertschaap)
 
 ### Portfolio 
