@@ -6,6 +6,11 @@ My name is Robert Schaap and I'm a beginning full stack web developer. I'm in th
 
 Though it's a bit bleek right now, I plan to use this page to store my portfolio projects and little code snippets. I have a separate account under my own name as well, but that's mainly used for testing.
 
+If you're looking for more info, please come look me up at:  
+[ColorCodedCode.com](http://www.colorcodedcode.com)  
+[Twitter/ColorCodedCode](https://www.twitter.com/colorcodedcode)  
+[LinkedIn](https://www.linkedin.com/in/robertschaap)
+
 ### Portfolio 
 [Museum](https://github.com/colorcodedcode/museum_node-express) Node | Express  
 Description: Simple test of REST routing and MVC architecture.
