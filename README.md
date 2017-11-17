@@ -1,6 +1,4 @@
-# Readme
-[ColorCodedCode | Robert Schaap] Portfolio Information
-
+# Welcome!
 Hi there! Welcome to my GitHub portfolio page. This repository serves as a quick introduction to the page as well as an easy navigation for the future.
 
 ### About Me
