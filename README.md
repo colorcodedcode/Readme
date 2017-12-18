@@ -18,7 +18,7 @@ A blog where users can sign up, post, read as well as comment on posts.
 [BulletinBoard](https://github.com/colorcodedcode/bulletinboard_node-express) - Node | Express  
 A simple bulletin board where you can leave a message and which is populated dynamically from a database with pagination.
 
-[Museum](https://github.com/colorcodedcode/museum_node-express - Node | Express  
+[Museum](https://github.com/colorcodedcode/museum_node-express) - Node | Express  
 A simple application that tests REST and MVC principles as well as user authentication and session management.
 
 ### Snippets
