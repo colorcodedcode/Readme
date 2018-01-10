@@ -21,4 +21,8 @@ A simple bulletin board where you can leave a message and which is populated dyn
 [Museum](https://github.com/colorcodedcode/museum_node-express) - Node | Express  
 A simple application that tests REST and MVC principles as well as user authentication and session management.
 
+[FlashCardApp](https://github.com/colorcodedcode/flashcardapp_mern-stack) - MERN Stack  
+An application that tests users' knowledge on a series of topics, in this case HTML/CSS/JS. The app uses a flash-card structure, tracks stats and through an algorithm serves cards that the user is weak in more often. This is my first React project.
+
+
 ### Snippets
