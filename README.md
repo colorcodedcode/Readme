@@ -2,11 +2,11 @@
 Hi there! Welcome to my GitHub portfolio page. This repository serves as a quick introduction to the page as well as an easy navigation for the future.
 
 ### About Me
-My name is Robert Schaap and I'm a beginning full stack web developer. I'm in the midst of completing my full stack bootcamp through the New York Code + Design Academy and am looking to get started somewhere early next year in a web development position.
+My name is Robert Schaap and I'm a beginning full stack web developer. Mid 2016 I decided to put the breaks on my financial career because I wanted to explore other things. That lead me to sofware development and after a lot of self-study I completed a full stack bootcamp at the New York Code + Design Academy.
 
-Though it's a bit bleek right now, I plan to use this page to store my portfolio projects and little code snippets. I have a separate account under my own name as well, but that's mainly used for testing.
+Though it needs filling up, this page will store my portfolio projects and little code snippets. I have a separate account under my own name as well (@robertschaap), but that's mainly used for testing and as a sandbox.
 
-If you're looking for more info, please come look me up at:  
+If you're looking for more info, please come look me up at and get in touch:  
 [ColorCodedCode.com](http://www.colorcodedcode.com)  
 [Twitter](https://www.twitter.com/colorcodedcode)  
 [LinkedIn](https://www.linkedin.com/in/robertschaap)
@@ -26,3 +26,4 @@ An application that tests users' knowledge on a series of topics, in this case H
 
 
 ### Snippets
+Coming soon
